@@ -10,4 +10,7 @@ public class HelloController {
     public String hello() {
         return "Hola Mundo";
     }
+    public String helloPush() {
+        return "Hola Mundo push";
+    }
 }
